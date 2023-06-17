@@ -1,4 +1,4 @@
 # database_pipeline
-##Source : SQL database
-##Model : sklearn, Keras
-##Deployment : Githubpages (Flask)
+# Source : SQL database
+# Model : sklearn, Keras
+# Deployment : Githubpages (Flask)
